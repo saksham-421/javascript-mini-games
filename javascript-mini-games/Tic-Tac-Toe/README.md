@@ -30,10 +30,14 @@ tic-tac-toe/
 ├── index.html
 ├── style.css
 ├── app.js
-├── ting.mp3
-├── gameover.mp3
-├── music.mp3
-└── excited.gif
+│
+├── ting.mp3              # 🔊 Audio Asset
+├── gameover.mp3          # 🔊 Audio Asset
+├── music.mp3             # 🎵 Audio Asset
+├── excited.gif           # 🎞️ GIF Asset
+├── TicTacToePreview.png  # 🖼️ Preview Asset
+│
+└── README.md
 ```
 
 ## 🎮 How to Play

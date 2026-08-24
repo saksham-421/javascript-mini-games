@@ -30,6 +30,8 @@ simon-says/
 ├── index.html
 ├── style.css
 ├── app.js
+├── SimonSaysPreview.png    # 🖼️ Preview Asset
+│
 └── README.md
 ```
 
