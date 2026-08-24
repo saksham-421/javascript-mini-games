@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+}
+.container{
+    height:30vw;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    align-items: center;
+}
+.btn{
+    height:12vw;
+    width:12vw;
+    border: 3px solid black;
+    border-radius:50%;
+}
+.pink{
+    background-color:#D55075;
+}
+.orange{
+    background-color:#FA903B;
+}
+.cyan{
+    background-color:#58A0B9;
+}
+.Periwinkle-Blue{
+    background-color:#7794F8;
+}
+
+ 
+
+.flash-white{
+    background-color:white;
+}
+.flash-green{
+    background-color:green;
+}
+.flash-red{
+    background-color:red;
+}
+.block01{
+    display: flex;
+    width:28vw;
+    justify-content: space-between;
+}
+.block02{
+    display: flex;
+    width:28vw;
+    justify-content: space-between;
+}
+.score,p{
+    font-size:1.5rem;
+}
+.score{
+    margin-top:1rem;
+}
+@media (max-width: 750px) {
+    .btn {
+        width:27vw;
+        height:27vw;
+    }
+    .block01,.block02{
+        width:65vw;
+    }
+    .container{
+        height: 65vw;
+    }
+}
