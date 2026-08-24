@@ -25,7 +25,7 @@ This is one of my beginner frontend projects, created to practice **DOM manipula
 ## 📂 Project Structure
 
 ```text
-tic-tac-toe/
+Tic-Tac-Toe/
 │
 ├── index.html
 ├── style.css

@@ -25,7 +25,7 @@ This is a beginner-friendly frontend project created to practice **JavaScript lo
 ## 📂 Project Structure
 
 ```text
-simon-says/
+Simon-Says/
 │
 ├── index.html
 ├── style.css
